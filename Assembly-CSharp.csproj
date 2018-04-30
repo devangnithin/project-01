@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\HighDetailFairgroundRides\Scripts\FreeflightCamera.cs" />
+     <Compile Include="Assets\HighDetailFairgroundRides\Scripts\TextureAnimatorLightmap.cs" />
      <Compile Include="Assets\PolyToolkit\ExampleScripts\HelloPoly.cs" />
      <Compile Include="Assets\PolyToolkit\ExampleScripts\Rotate.cs" />
      <Compile Include="Assets\PolyToolkit\ExampleScripts\ShowFeaturedExample.cs" />
@@ -101,6 +103,7 @@
      <Compile Include="Assets\PolyToolkit\Scripts\PolyTypes.cs" />
      <Compile Include="Assets\PolyToolkit\Scripts\PtAsset.cs" />
      <Compile Include="Assets\PolyToolkit\Scripts\PtAssetObject.cs" />
+     <Compile Include="Assets\scripts\GiantDrop.cs" />
      <Compile Include="Assets\scripts\WindEffect.cs" />
      <Compile Include="Assets\VRTK\Examples\ExampleResources\Scripts\Archery\Arrow.cs" />
      <Compile Include="Assets\VRTK\Examples\ExampleResources\Scripts\Archery\ArrowNotch.cs" />
@@ -356,6 +359,7 @@
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseDefines.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseHeadset.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
+     <None Include="Assets\Poly\Sources\Radio_tower_Poly_by_Google_44JZ7nNNy_x\FileNameMapping.txt" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Bubbles\Bubbles.shader" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\SoftHighlighter\SoftHighlighter.shader" />
      <None Include="Assets\PolyToolkit\Shaders\PolyToolkitPbrOpaqueDoubleSided.shader" />
@@ -394,6 +398,7 @@
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Rainbow\Rainbow.shader" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\DoubleTaperedMarker\DoubleTaperedMarker.shader" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Plasma\Plasma.shader" />
+     <None Include="Assets\Poly\Resources\PolyAttributions.txt" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Dots\Dots.shader" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Blocks\BlocksGem\BlocksGem.shader" />
      <None Include="Assets\PolyToolkit\Internal\tbt\Brushes\Basic\Electricity\Electricity.shader" />
